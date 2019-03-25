@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "227172183134",
+    "firebase_url": "https://vetukokonuko.firebaseio.com",
+    "project_id": "vetukokonuko",
+    "storage_bucket": "vetukokonuko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227172183134:android:d547c737a7ebc3c0",
+        "android_client_info": {
+          "package_name": "com.example.vettukokonuko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227172183134-pl91epr2ttv1s57kvtrrhtg2pe2msfk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vettukokonuko",
+            "certificate_hash": "415abfe191816f75b0be58425773a6e1959cc37e"
+          }
+        },
+        {
+          "client_id": "227172183134-mrsia7i70kf39odg8vt368evbetaffbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAULgUCnZZ9_XXRGUyhmTWlp-M3B0-Qn4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227172183134-mrsia7i70kf39odg8vt368evbetaffbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
